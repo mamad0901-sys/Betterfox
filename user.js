@@ -66,6 +66,7 @@ user_pref("browser.download.start_downloads_in_tmp_dir", true);
 user_pref("browser.helperApps.deleteTempFileOnExit", true);
 user_pref("browser.uitour.enabled", false);
 user_pref("privacy.globalprivacycontrol.enabled", true);
+user_pref("privacy.resistFingerprinting", true);
 
 /** OCSP & CERTS / HPKP ***/
 user_pref("security.OCSP.enabled", 0);
